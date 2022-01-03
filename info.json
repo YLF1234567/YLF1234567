@@ -1,0 +1,72 @@
+{
+  "name": "BohrSwap",
+  "timestamp": "2021-11-08T09:39:02.291738794Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 2
+  },
+  "tags": {
+    "bases": {
+      "name": "Common Bases",
+      "description": "Commonly used trading bases"
+    },
+    "nft": {
+      "name": "NFT Tokens",
+      "description": "Tokens related to nft games platforms and projects"
+    },
+    "other": {
+      "name": "Other social money",
+      "description": "Broader universe of social money and personal tokens"
+    },
+    "roll": {
+      "name": "BOHR Tokens",
+      "description": "BOHR Tokens"
+    }
+  },
+  "logoURI": "https://swap.bohrchain.com/BohrSwap.png",
+  "keywords": [
+    "roll",
+    "default",
+    "social money",
+    "personal tokens"
+  ],
+  "tokens": [
+    {
+      "name": "WBOHR",
+      "address": "0x296ad5d6f048cee70efcaddc3201578152f0342c",
+      "symbol": "WBOHR",
+      "tags": ["roll"],
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://swap.bohrchain.com/BR.png"
+    },
+    {
+      "name": "BO Stablecoin",
+      "address": "0x13cd83963e8f6a717b0c4b324cd4f88d6e5568f4",
+      "symbol": "BO",
+      "tags": ["roll"],
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://swap.bohrchain.com/BO.png"
+    },
+    {
+      "name": "BrMaker",
+      "address": "0xde3309f83bd9cf499c345718607359ffd0797c88",
+      "symbol": "BRM",
+      "tags": ["roll"],
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://swap.bohrchain.com/BrMarker.png"
+    },
+    {
+ "name": "The Golden Toad",
+      "address": "0xcff385f9e1b412d11a9afee535c2041929779148",
+      "symbol": "TGT",
+      "tags": ["roll"],
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://swap.bohrchain.com/TGT.png"
+    }
+  ]
+}
